@@ -1,4 +1,12 @@
-<h1>Hi, I'm Arshia! <br/><a href="https://github.com/joshmadakor1">Analyst</a>, <a href="https://www.linkedin.com/in/arshia-noor-70520414b/">Data Science Professional</a>
+<h1 align="center">Hi, I'm Arshia! <br/></h1>
+
+💼 Data Engineer | Turning data into actionable insights  
+🎓 Data Science Graduate  
+📊 Passionate about data visualization, SQL, and building intelligent dashboards  
+🌱 Currently learning: IBM Analytics | Google Analytics   
+🔎 Exploring opportunities in data analytics, business intelligence, and data-driven decision making  
+🚀 Always experimenting with new tools and techniques to solve real-world problems
+
 
 <h2>👨‍💻 Data Science Projects:</h2>
 
