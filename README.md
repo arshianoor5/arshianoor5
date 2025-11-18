@@ -10,13 +10,13 @@
 
 <h2>👨‍💻 Data Science Projects:</h2>
 
-- [Exploratory Data Analysis ](url)
-- [Algorithms of Data Science](url) 
+- [Exploratory Data Analysis ](https://github.com/arshianoor5/EDA)
+- [Algorithms of Data Science](https://github.com/arshianoor5/ADS) 
 
 <h2>🤖 Machine Learning</h2>
 
-- [Supervised ML](url)
-- [Unsupervised ML](url)
+- [Supervised ML](https://github.com/arshianoor5/SML)
+- [Unsupervised ML](https://github.com/arshianoor5/UML)
 
 ## 💻 Skills
 
@@ -31,7 +31,7 @@
 ### 💌 Let's connect!
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/arshia-noor-70520414b/)
-- 💻 [Portfolio](url)
+- 💻 [Portfolio](https://github.com/arshianoor5/Portfolio.git)
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
