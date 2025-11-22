@@ -10,8 +10,8 @@
 
 <h2>👨‍💻 Data Science Projects:</h2>
 
-- [Exploratory Data Analysis ](https://github.com/arshianoor5/EDA)
-- [Algorithms of Data Science](https://github.com/arshianoor5/ADS) 
+- [Exploratory Data Analysis ](https://github.com/arshianoor5/DataScience/blob/main/EDA)
+- [Algorithms of Data Science](https://github.com/arshianoor5/DataScience/blob/main/Algo%20of%20Data%20Science)
 
 <h2>🤖 Machine Learning</h2>
 
