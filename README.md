@@ -8,15 +8,25 @@
 🚀 Always experimenting with new tools and techniques to solve real-world problems
 
 
-<h2>👨‍💻 Data Science Projects:</h2>
+<h2>👩🏻‍💻 Data Science Projects:</h2>
 
 - [Exploratory Data Analysis ](https://github.com/arshianoor5/DataScience/blob/main/EDA)
 - [Algorithms of Data Science](https://github.com/arshianoor5/DataScience/blob/main/Algo%20of%20Data%20Science)
 
-<h2>🤖 Machine Learning</h2>
+<h2>🤖 Machine Learning Projects</h2>
 
 - [Supervised ML](https://github.com/arshianoor5/MachineLearning/blob/main/SupervisedML)
 - [Unsupervised ML](https://github.com/arshianoor5/MachineLearning/blob/main/UnsupervisedML)
+
+<h2>🐍 Python Projects</h2>
+
+- [p](https://github.com/arshianoor5/MachineLearning/blob/main/SupervisedML)
+- [p](https://github.com/arshianoor5/MachineLearning/blob/main/UnsupervisedML)
+
+<h2>📈 SQL Projects</h2>
+
+- [d](https://github.com/arshianoor5/MachineLearning/blob/main/SupervisedML)
+- [U](https://github.com/arshianoor5/MachineLearning/blob/main/UnsupervisedML)
 
 ## 💻 Skills
 
