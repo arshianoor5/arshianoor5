@@ -15,8 +15,8 @@
 
 <h2>🤖 Machine Learning</h2>
 
-- [Supervised ML](https://github.com/arshianoor5/SML)
-- [Unsupervised ML](https://github.com/arshianoor5/UML)
+- [Supervised ML](https://github.com/arshianoor5/MachineLearning/blob/main/SupervisedML)
+- [Unsupervised ML](https://github.com/arshianoor5/MachineLearning/blob/main/UnsupervisedML)
 
 ## 💻 Skills
 
