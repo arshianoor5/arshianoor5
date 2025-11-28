@@ -41,7 +41,7 @@
 ### 💌 Let's connect!
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/arshia-noor-70520414b/)
-- 💻 [Portfolio](https://github.com/arshianoor5/Portfolio.git)
+- 💻 [Portfolio](https://arshianoor5.github.io/Portfolio/)
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
